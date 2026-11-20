@@ -1,2 +1,3 @@
 # Class-Assignment
-Class assignment task
+Class assignment task on JavaScript
+## First assignment
